@@ -1,4 +1,4 @@
-# ~/dev/BDD-test-app/spec/web_search_spec.rb
+# ~/dev/BDD-test-app/spec/features/web_search_spec.rb
 
 require "spec_helper"
 
